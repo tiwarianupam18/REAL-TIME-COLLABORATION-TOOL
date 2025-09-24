@@ -17,5 +17,5 @@ As a task of CODTECH internship, I built a Real-time collaborative code editor.I
 
 # OUTPUT OF TASK
 
-<img width="1889" height="874" alt="Image" src="https://github.com/user-attachments/assets/07e63f08-0020-4419-afe5-90443e4fdd06" />
+<img width="1837" height="849" alt="Image" src="https://github.com/user-attachments/assets/de733f31-b292-44a3-8daa-5027c6f4b689" />
 
